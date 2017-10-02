@@ -1,0 +1,124 @@
+total 9452
+-rwxr-xr-x. 1 root root      123 Dec 19  2012 alsaunmute
+-rwxr-xr-x. 1 root root    27776 Dec 26  2012 arch
+lrwxrwxrwx. 1 root root        4 Nov 10  2015 awk -> gawk
+-rwxr-xr-x. 1 root root    26264 Dec 26  2012 basename
+-rwxr-xr-x. 1 root root   938768 Dec 19  2012 bash
+-rwxr-xr-x. 1 root root    48568 Dec 26  2012 cat
+-rwxr-xr-x. 1 root root    12696 Feb 23  2013 cgclassify
+-rwxr-xr-x. 1 root root    14936 Feb 23  2013 cgcreate
+-rwxr-xr-x. 1 root root    11912 Feb 23  2013 cgdelete
+-rwxr-sr-x. 1 root cgred   12880 Feb 23  2013 cgexec
+-rwxr-xr-x. 1 root root    16208 Feb 23  2013 cgget
+-rwxr-xr-x. 1 root root    13528 Feb 23  2013 cgset
+-rwxr-xr-x. 1 root root    20176 Feb 23  2013 cgsnapshot
+-rwxr-xr-x. 1 root root    55472 Dec 26  2012 chgrp
+-rwxr-xr-x. 1 root root    52472 Dec 26  2012 chmod
+-rwxr-xr-x. 1 root root    57464 Dec 26  2012 chown
+-rwxr-xr-x. 1 root root   125560 Dec 26  2012 cp
+-rwxr-xr-x. 1 root root   135744 Oct 30  2012 cpio
+lrwxrwxrwx. 1 root root        4 Nov 10  2015 csh -> tcsh
+-rwxr-xr-x. 1 root root    45408 Dec 26  2012 cut
+-rwxr-xr-x. 1 root root   109672 Dec 19  2012 dash
+-rwxr-xr-x. 1 root root    59488 Dec 26  2012 date
+-rwxr-xr-x. 1 root root    12600 Sep 13  2012 dbus-cleanup-sockets
+-rwxr-xr-x. 1 root root   339080 Sep 13  2012 dbus-daemon
+-rwxr-xr-x. 1 root root    18560 Sep 13  2012 dbus-monitor
+-rwxr-xr-x. 1 root root    22456 Sep 13  2012 dbus-send
+-rwxr-xr-x. 1 root root    11008 Sep 13  2012 dbus-uuidgen
+-rwxr-xr-x. 1 root root    53944 Dec 26  2012 dd
+-rwxr-xr-x. 1 root root    77424 Dec 26  2012 df
+-rwxr-xr-x. 1 root root     9944 Feb 22  2013 dmesg
+lrwxrwxrwx. 1 root root        8 Nov 10  2015 dnsdomainname -> hostname
+lrwxrwxrwx. 1 root root        8 Nov 10  2015 domainname -> hostname
+-rwxr-xr-x. 1 root root    81120 Jul 23  2010 dumpkeys
+-rwxr-xr-x. 1 root root    28176 Dec 26  2012 echo
+-rwxr-xr-x. 2 root root    53400 Jul  4  2010 ed
+-rwxr-xr-x. 1 root root   106400 Apr 28  2012 egrep
+-rwxr-xr-x. 1 root root    26368 Dec 26  2012 env
+lrwxrwxrwx. 1 root root        2 Nov 10  2015 ex -> vi
+-rwxr-xr-x. 1 root root    25120 Dec 26  2012 false
+-rwxr-xr-x. 1 root root    71392 Apr 28  2012 fgrep
+-rwxr-xr-x. 1 root root   238976 Jul 22  2010 find
+-rwxr-xr-x. 1 root root    41896 Feb 22  2013 findmnt
+-rwsr-x---. 1 root fuse    32336 Dec  7  2011 fusermount
+-rwxr-xr-x. 1 root root   382456 Dec 19  2012 gawk
+-rwxr-xr-x. 1 root root    33488 Apr 30  2010 gettext
+-rwxr-xr-x. 1 root root   111360 Apr 28  2012 grep
+lrwxrwxrwx. 1 root root        3 Nov 10  2015 gtar -> tar
+-rwxr-xr-x. 1 root root       61 Jul 23  2010 gunzip
+-rwxr-xr-x. 1 root root    68616 Jul 23  2010 gzip
+-rwxr-xr-x. 1 root root    17848 May 10  2012 hostname
+-rwxr-xr-x. 1 root root    14920 Feb 24  2013 ipcalc
+lrwxrwxrwx. 1 root root       41 Nov 10  2015 iptables-xml -> /etc/alternatives/bin-iptables-xml.x86_64
+lrwxrwxrwx. 1 root root       20 Nov 10  2015 iptables-xml-1.4.7 -> /sbin/iptables-multi
+-rwxr-xr-x. 1 root root    11296 Jul 23  2010 kbd_mode
+-rwxr-xr-x. 1 root root    25560 Apr 28  2012 keyctl
+-rwxr-xr-x. 1 root root    15224 Feb 22  2013 kill
+lrwxrwxrwx. 1 root root       21 Nov 11  2015 ksh -> /etc/alternatives/ksh
+-rwxr-xr-x. 1 root root  1507648 Sep 22  2015 ksh93
+-rwxr-xr-x. 1 root root    26256 Dec 26  2012 link
+-rwxr-xr-x. 1 root root    49504 Dec 26  2012 ln
+-rwxr-xr-x. 1 root root   112208 Jul 23  2010 loadkeys
+-rwxr-xr-x. 1 root root    31496 Feb 22  2013 login
+-rwxr-xr-x. 1 root root   117024 Dec 26  2012 ls
+-rwxr-xr-x. 1 root root    59848 Feb 22  2013 lsblk
+-rwxr-xr-x. 1 root root    14376 Feb 23  2013 lscgroup
+-rwxr-xr-x. 1 root root    13696 Feb 23  2013 lssubsys
+lrwxrwxrwx. 1 root root        5 Nov 10  2015 mail -> mailx
+-rwxr-xr-x. 1 root root   391136 Jul  6  2010 mailx
+-rwxr-xr-x. 1 root root    49384 Dec 26  2012 mkdir
+-rwxr-xr-x. 1 root root    32496 Dec 26  2012 mknod
+-rwxr-xr-x. 1 root root    38048 Dec 26  2012 mktemp
+-rwxr-xr-x. 1 root root    41216 Feb 22  2013 more
+-rwsr-xr-x. 1 root root    77208 Feb 22  2013 mount
+-rwxr-xr-x. 1 root root     9848 Mar 30  2011 mountpoint
+-rwxr-xr-x. 1 root root   113392 Dec 26  2012 mv
+-rwxr-xr-x. 1 root root   178928 Nov 20  2010 nano
+-rwxr-xr-x. 1 root root   128192 May 10  2012 netstat
+-rwxr-xr-x. 1 root root    28784 Dec 26  2012 nice
+lrwxrwxrwx. 1 root root        8 Nov 10  2015 nisdomainname -> hostname
+-rwsr-xr-x. 1 root root    40760 May 20  2011 ping
+-rwsr-xr-x. 1 root root    36488 May 20  2011 ping6
+-rwxr-xr-x. 1 root root    36808 Dec 20  2012 plymouth
+-rwxr-xr-x. 1 root root    87088 Dec 20  2012 ps
+-rwxr-xr-x. 1 root root    31656 Dec 26  2012 pwd
+-rwxr-xr-x. 1 root root    11576 Feb 22  2013 raw
+-rwxr-xr-x. 1 root root    40056 Dec 26  2012 readlink
+-rwxr-xr-x. 2 root root    53400 Jul  4  2010 red
+-rwxr-xr-x. 1 root root      576 Apr 16  2008 redhat_lsb_init
+-rwxr-xr-x. 1 root root    57440 Dec 26  2012 rm
+-rwxr-xr-x. 1 root root    40480 Dec 26  2012 rmdir
+lrwxrwxrwx. 1 root root        4 Nov 10  2015 rnano -> nano
+-rwxr-xr-x. 1 root root    30600 Dec 20  2012 rpm
+lrwxrwxrwx. 1 root root        2 Nov 10  2015 rvi -> vi
+lrwxrwxrwx. 1 root root        2 Nov 10  2015 rview -> vi
+-rwxr-xr-x. 1 root root    72248 Jun 21  2012 sed
+-rwxr-xr-x. 1 root root    42384 Jul 23  2010 setfont
+-rwxr-xr-x. 1 root root    23672 Jul  8  2010 setserial
+lrwxrwxrwx. 1 root root        4 Nov 10  2015 sh -> bash
+-rwxr-xr-x. 1 root root    27848 Dec 26  2012 sleep
+-rwxr-xr-x. 1 root root    98968 Dec 26  2012 sort
+-rwxr-xr-x. 1 root root    65032 Dec 26  2012 stty
+-rwsr-xr-x. 1 root root    34904 Dec 26  2012 su
+-rwxr-xr-x. 1 root root    25432 Dec 26  2012 sync
+-rwxr-xr-x. 1 root root   395472 Dec 20  2012 tar
+-rwxr-xr-x. 1 root root    14880 Feb 22  2013 taskset
+-rwxr-xr-x. 1 root root   387328 Feb 23  2013 tcsh
+-rwxr-xr-x. 1 root root    52656 Dec 26  2012 touch
+-rwxr-xr-x. 1 root root    11392 May 20  2011 tracepath
+-rwxr-xr-x. 1 root root    12288 May 20  2011 tracepath6
+-rwxr-xr-x. 1 root root    57480 Jul  8  2010 traceroute
+lrwxrwxrwx. 1 root root       10 Nov 10  2015 traceroute6 -> traceroute
+-rwxr-xr-x. 1 root root    25120 Dec 26  2012 true
+-rwxr-xr-x. 1 root root    15008 Dec  7  2011 ulockmgr_server
+-rwsr-xr-x. 1 root root    53472 Feb 22  2013 umount
+-rwxr-xr-x. 1 root root    27776 Dec 26  2012 uname
+-rwxr-xr-x. 1 root root     2555 Jul 23  2010 unicode_start
+-rwxr-xr-x. 1 root root      363 Jul 23  2010 unicode_stop
+-rwxr-xr-x. 1 root root    25760 Dec 26  2012 unlink
+-rwxr-xr-x. 1 root root    10256 Feb 24  2013 usleep
+-rwxr-xr-x. 1 root root   770248 Apr 28  2012 vi
+lrwxrwxrwx. 1 root root        2 Nov 10  2015 view -> vi
+lrwxrwxrwx. 1 root root        8 Nov 10  2015 ypdomainname -> hostname
+-rwxr-xr-x. 1 root root       62 Jul 23  2010 zcat
